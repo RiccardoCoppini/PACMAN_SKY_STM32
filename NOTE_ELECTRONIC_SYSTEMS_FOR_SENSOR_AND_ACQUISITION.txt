@@ -1,0 +1,23 @@
+In this folder are included the files from the final group project of the course.
+
+FILES:
+
+"report_ESSA" -> pdf file with the presentation of the project
+
+"main" -> code automatically generated from the STM32IDE environment and then modified for the
+project.
+
+"SerialCommunicationForProjects.py" -> Python script for the Serial Comunication
+
+"plot_sensor_data" -> matlab file 
+
+"Sample_of_SPACE_INVADERS" -> Video of the project, unfortunately there isn't any video of the
+			      final project so it is affected from small errors, and is not
+	                      on Pacman sky.
+
+
+
+The board programming has been done leveraging the following environment:
+-STM32CubeMX
+-STM32CubeMonitor
+-STM32CubeIDE 1.7.0
